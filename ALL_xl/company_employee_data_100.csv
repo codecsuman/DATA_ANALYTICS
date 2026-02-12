@@ -1,0 +1,101 @@
+Employee_ID,Name,Age,Gender,Department,Designation,Salary,Experience_Years,City,Employment_Type
+EMP1000,Employee_1,38,Male,Marketing,Team Lead,55024,10,Kolkata,Contract
+EMP1001,Employee_2,54,Female,Sales,Senior Executive,70059,3,Mumbai,Part-Time
+EMP1002,Employee_3,55,Female,Finance,Executive,33985,10,Bangalore,Full-Time
+EMP1003,Employee_4,35,Male,Operations,Analyst,72303,13,Bangalore,Contract
+EMP1004,Employee_5,27,Female,Sales,Analyst,93988,11,Chennai,Part-Time
+EMP1005,Employee_6,35,Female,HR,Team Lead,39695,15,Bangalore,Contract
+EMP1006,Employee_7,27,Female,IT,Team Lead,80428,0,Mumbai,Contract
+EMP1007,Employee_8,25,Male,Marketing,Analyst,54160,1,Mumbai,Part-Time
+EMP1008,Employee_9,55,Female,Finance,Senior Executive,52305,3,Chennai,Contract
+EMP1009,Employee_10,29,Male,Finance,Executive,118704,14,Chennai,Contract
+EMP1010,Employee_11,22,Female,IT,Manager,22680,11,Mumbai,Part-Time
+EMP1011,Employee_12,60,Male,HR,Senior Executive,71880,1,Chennai,Contract
+EMP1012,Employee_13,32,Male,Operations,Senior Executive,86186,12,Hyderabad,Part-Time
+EMP1013,Employee_14,28,Male,Finance,Team Lead,89290,6,Kolkata,Full-Time
+EMP1014,Employee_15,46,Male,Sales,Senior Executive,41838,7,Mumbai,Full-Time
+EMP1015,Employee_16,55,Female,HR,Manager,55184,2,Kolkata,Part-Time
+EMP1016,Employee_17,55,Male,Operations,Manager,58145,4,Hyderabad,Part-Time
+EMP1017,Employee_18,59,Male,HR,Senior Executive,24643,2,Kolkata,Full-Time
+EMP1018,Employee_19,54,Male,Marketing,Analyst,112010,6,Hyderabad,Full-Time
+EMP1019,Employee_20,45,Female,Finance,Executive,82820,12,Mumbai,Full-Time
+EMP1020,Employee_21,52,Female,Operations,Senior Executive,32052,13,Bangalore,Full-Time
+EMP1021,Employee_22,47,Male,IT,Manager,83741,9,Bangalore,Full-Time
+EMP1022,Employee_23,44,Female,HR,Manager,33850,11,Kolkata,Contract
+EMP1023,Employee_24,34,Female,Operations,Senior Executive,87066,7,Mumbai,Full-Time
+EMP1024,Employee_25,30,Female,Sales,Team Lead,35551,2,Kolkata,Contract
+EMP1025,Employee_26,42,Female,Operations,Manager,44508,6,Mumbai,Contract
+EMP1026,Employee_27,54,Female,Marketing,Manager,110446,12,Chennai,Part-Time
+EMP1027,Employee_28,57,Female,HR,Senior Executive,86849,6,Mumbai,Contract
+EMP1028,Employee_29,41,Female,HR,Manager,57343,4,Mumbai,Full-Time
+EMP1029,Employee_30,41,Female,IT,Manager,88449,0,Mumbai,Part-Time
+EMP1030,Employee_31,32,Male,Sales,Team Lead,31125,15,Hyderabad,Contract
+EMP1031,Employee_32,60,Male,Marketing,Team Lead,45894,5,Mumbai,Part-Time
+EMP1032,Employee_33,47,Female,IT,Executive,107359,13,Chennai,Contract
+EMP1033,Employee_34,42,Female,HR,Senior Executive,38677,12,Kolkata,Part-Time
+EMP1034,Employee_35,28,Male,Operations,Manager,29949,7,Kolkata,Part-Time
+EMP1035,Employee_36,51,Male,Marketing,Analyst,54976,7,Bangalore,Full-Time
+EMP1036,Employee_37,52,Female,Operations,Manager,70654,10,Delhi,Full-Time
+EMP1037,Employee_38,32,Male,IT,Team Lead,63556,13,Kolkata,Full-Time
+EMP1038,Employee_39,21,Female,Operations,Analyst,69130,9,Delhi,Full-Time
+EMP1039,Employee_40,56,Female,HR,Manager,79211,10,Bangalore,Part-Time
+EMP1040,Employee_41,33,Male,HR,Senior Executive,118330,14,Kolkata,Full-Time
+EMP1041,Employee_42,23,Female,IT,Senior Executive,46032,15,Kolkata,Full-Time
+EMP1042,Employee_43,23,Female,Sales,Manager,65502,1,Delhi,Full-Time
+EMP1043,Employee_44,50,Male,Finance,Senior Executive,55275,9,Chennai,Part-Time
+EMP1044,Employee_45,48,Female,Operations,Executive,67749,10,Delhi,Contract
+EMP1045,Employee_46,21,Female,Sales,Executive,89809,2,Chennai,Part-Time
+EMP1046,Employee_47,31,Male,Marketing,Senior Executive,75640,13,Chennai,Part-Time
+EMP1047,Employee_48,32,Female,Sales,Analyst,119472,3,Kolkata,Contract
+EMP1048,Employee_49,50,Female,Finance,Team Lead,66791,13,Hyderabad,Part-Time
+EMP1049,Employee_50,46,Male,Finance,Senior Executive,112732,8,Hyderabad,Full-Time
+EMP1050,Employee_51,36,Male,Operations,Senior Executive,48667,5,Chennai,Contract
+EMP1051,Employee_52,48,Female,HR,Manager,34895,10,Hyderabad,Part-Time
+EMP1052,Employee_53,49,Male,HR,Team Lead,48887,13,Kolkata,Part-Time
+EMP1053,Employee_54,49,Male,IT,Senior Executive,41349,6,Delhi,Full-Time
+EMP1054,Employee_55,59,Female,HR,Team Lead,71184,9,Bangalore,Part-Time
+EMP1055,Employee_56,33,Female,Operations,Analyst,38036,1,Bangalore,Contract
+EMP1056,Employee_57,40,Male,Sales,Analyst,115726,8,Chennai,Full-Time
+EMP1057,Employee_58,36,Male,Operations,Executive,86647,4,Hyderabad,Full-Time
+EMP1058,Employee_59,36,Female,IT,Analyst,100774,7,Bangalore,Contract
+EMP1059,Employee_60,32,Male,HR,Manager,53678,11,Kolkata,Contract
+EMP1060,Employee_61,37,Female,Marketing,Executive,57499,0,Mumbai,Part-Time
+EMP1061,Employee_62,53,Female,Finance,Analyst,24117,4,Chennai,Part-Time
+EMP1062,Employee_63,56,Male,IT,Executive,118875,13,Bangalore,Contract
+EMP1063,Employee_64,49,Male,Operations,Analyst,62369,4,Mumbai,Part-Time
+EMP1064,Employee_65,44,Male,Sales,Senior Executive,78300,3,Kolkata,Full-Time
+EMP1065,Employee_66,50,Female,Marketing,Executive,25441,0,Kolkata,Contract
+EMP1066,Employee_67,22,Male,Finance,Manager,95892,7,Delhi,Part-Time
+EMP1067,Employee_68,23,Female,Marketing,Executive,51551,1,Hyderabad,Part-Time
+EMP1068,Employee_69,57,Male,IT,Executive,63717,14,Hyderabad,Part-Time
+EMP1069,Employee_70,40,Male,Sales,Manager,35584,8,Bangalore,Part-Time
+EMP1070,Employee_71,35,Male,Finance,Analyst,61318,6,Chennai,Part-Time
+EMP1071,Employee_72,59,Male,Operations,Analyst,85781,5,Hyderabad,Full-Time
+EMP1072,Employee_73,25,Male,IT,Senior Executive,78172,5,Chennai,Full-Time
+EMP1073,Employee_74,60,Male,IT,Team Lead,91859,3,Delhi,Part-Time
+EMP1074,Employee_75,47,Female,HR,Analyst,80891,11,Delhi,Contract
+EMP1075,Employee_76,36,Female,Marketing,Manager,113761,4,Hyderabad,Full-Time
+EMP1076,Employee_77,58,Female,Marketing,Manager,37003,8,Bangalore,Part-Time
+EMP1077,Employee_78,35,Female,IT,Team Lead,62188,13,Chennai,Part-Time
+EMP1078,Employee_79,25,Female,Marketing,Senior Executive,53677,6,Kolkata,Part-Time
+EMP1079,Employee_80,47,Male,Finance,Team Lead,78912,14,Kolkata,Contract
+EMP1080,Employee_81,29,Male,Sales,Senior Executive,52076,13,Bangalore,Contract
+EMP1081,Employee_82,35,Male,Sales,Senior Executive,44831,11,Hyderabad,Part-Time
+EMP1082,Employee_83,25,Female,Operations,Analyst,43766,12,Chennai,Full-Time
+EMP1083,Employee_84,34,Female,HR,Executive,83119,13,Mumbai,Contract
+EMP1084,Employee_85,43,Female,HR,Senior Executive,93917,8,Chennai,Contract
+EMP1085,Employee_86,25,Male,Marketing,Executive,66400,4,Hyderabad,Contract
+EMP1086,Employee_87,35,Female,Sales,Team Lead,23528,12,Hyderabad,Full-Time
+EMP1087,Employee_88,52,Female,HR,Manager,37141,5,Delhi,Part-Time
+EMP1088,Employee_89,21,Female,Marketing,Executive,77532,11,Mumbai,Contract
+EMP1089,Employee_90,39,Female,IT,Manager,86595,11,Delhi,Contract
+EMP1090,Employee_91,35,Male,Sales,Team Lead,78377,3,Chennai,Part-Time
+EMP1091,Employee_92,28,Male,Finance,Executive,52610,1,Mumbai,Full-Time
+EMP1092,Employee_93,55,Female,Finance,Analyst,24668,8,Kolkata,Full-Time
+EMP1093,Employee_94,42,Female,Marketing,Team Lead,28850,9,Hyderabad,Full-Time
+EMP1094,Employee_95,49,Female,Finance,Analyst,31160,9,Mumbai,Contract
+EMP1095,Employee_96,23,Male,Sales,Team Lead,79654,0,Chennai,Part-Time
+EMP1096,Employee_97,43,Male,HR,Senior Executive,71024,10,Hyderabad,Full-Time
+EMP1097,Employee_98,39,Female,HR,Analyst,109083,12,Kolkata,Full-Time
+EMP1098,Employee_99,47,Male,Finance,Manager,85765,6,Delhi,Full-Time
+EMP1099,Employee_100,43,Male,IT,Team Lead,85865,1,Mumbai,Full-Time
