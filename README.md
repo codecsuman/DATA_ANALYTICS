@@ -4,45 +4,42 @@
 <h3 align="center">🚀 Python • Pandas • NumPy • SQL • Data Visualization</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-orange?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/SQL-Database-success?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-orange?style=for-the-badge&logo=numpy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQL-Database-success?style=for-the-badge&logo=mysql" alt="SQL" />
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub" />
 </p>
 
 ---
 
 ## 👤 About Me  
 
-👋 Hi, I’m **Suman Jhanp**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.  
-I enjoy working with **data cleaning, analysis, and visualization** using modern tools and technologies.
+👋 Hi, I’m **Suman Jhanp**, an aspiring **Data Analyst** from India passionate about turning raw data into actionable insights through cleaning, analysis, and visualization.[web:2]
 
-🎯 **Career Goal:** Become a skilled **Data Analyst / Data Scientist**  
-📍 **Location:** India  
+🎯 **Career Goal:** Land a Data Analyst / Data Scientist role  
+📍 **Location:** Kolkata, West Bengal, India  
 
 ---
 
 ## 🧰 Technical Skills  
 
 ### 🖥 Programming
-- 🐍 Python (Data Analytics Focus)
+- 🐍 **Python** (Data Analytics Focus)
 
-### 📊 Data Analysis Libraries
-- NumPy  
-- Pandas  
+### 📊 Data Analysis
+- **NumPy** (Arrays & Computations)
+- **Pandas** (DataFrames, Cleaning, Aggregation)
 
-### 📈 Data Visualization
-- Matplotlib  
-- Seaborn  
+### 📈 Visualization
+- **Matplotlib**
+- **Seaborn**
 
 ### 🗄 Databases
-- MySQL  
+- **MySQL** (Queries & Analysis)
 
-### ⚙ Tools & Platforms
-- VS Code  
-- Jupyter Notebook  
-- Git & GitHub  
+### ⚙ Tools
+- VS Code, Jupyter Notebook, Git/GitHub, Excel/CSV Handling[web:1]
 
 ---
 
@@ -51,33 +48,13 @@ I enjoy working with **data cleaning, analysis, and visualization** using modern
 ```text
 DATA_ANALYTICS/
 │
-├── 🐍 python
-├── 📊 pandas
-├── 🔢 Numpy and Data
-├── 📈 matplotlib
-├── 🎨 Seaborn
-├── 📓 jupyternotebook
-├── 🗄 mysql
-├── 📑 ALL_xl
-
-📚 Key Learning Areas
-
-✔ Python Basics for Data Analytics
-✔ NumPy Arrays (1D & 2D)
-✔ Pandas Series & DataFrames
-✔ Data Cleaning & Preprocessing
-✔ Handling Missing & Duplicate Data
-✔ Sorting, Filtering & Aggregation
-✔ Data Visualization Techniques
-✔ CSV & Excel File Handling
-✔ SQL Queries for Analysis
-
-
-
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
-
-<h3 align="center">⭐ If you like this portfolio, please give it a star ⭐</h3> <p align="center"> 📊 Learn • Analyze • Visualize • Grow 🚀 </p> ```
-
+├── 🐍 python/              # Core Python scripts
+├── 📊 pandas/              # Data manipulation projects
+├── 🔢 numpy-and-data/      # NumPy array operations
+├── 📈 matplotlib/          # Basic plotting examples
+├── 🎨 seaborn/             # Advanced visualizations
+├── 📓 jupyternotebook/    # Interactive notebooks
+├── 🗄 mysql/               # SQL query files & analysis
+└── 📑 all_xl/              # Excel/CSV datasets & reports
 
 
